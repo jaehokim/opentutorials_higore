@@ -1,0 +1,19 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,11 +1,17 @@
+  <!DOCTYPE html>
+  <html>
+  	<head>
+++<<<<<<< HEAD
+++=======
++ 		<script type="text/javascript">
++ 		alert(1);
++ 		</script>
+++>>>>>>> parent of b1ccdca... new commit
+  	</head>
+ -	<body></body>
+ +	<body>
+ +		<header>test</header>
+ +	</body>
+  
+  
+  </html>
